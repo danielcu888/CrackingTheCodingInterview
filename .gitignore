@@ -1,0 +1,10 @@
+*.*~
+
+*.metadata
+
+*.DS_Store
+
+*/**/Debug
+*/**/bin
+
+*.class
