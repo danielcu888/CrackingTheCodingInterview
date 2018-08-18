@@ -8,3 +8,9 @@
 */**/bin
 
 *.class
+
+*.project
+*.cproject
+*.o
+*.settings
+*.classpath
